@@ -1,0 +1,8 @@
+n1	40.7128	-74.0060	#name="New York"	#population="8538000"
+n2	51.5074	-0.1278	#name="London"	#population="8908081"
+n3	48.8566	2.3522	#name="Paris"	#population="2140526"
+n4	35.6895	139.6917	#name="Tokyo"	#population="13929286"
+n5	55.7558	37.6176	#name="Moscow"	#population="12506468"
+r1	w1="outer"	n1="label"	#name="Central Park"
+w1	n1	n2	n3	n4	n5	#name="Route 66"
+r2	w2="outer"	n2	n3	n4	n5	#name="Greater London"
